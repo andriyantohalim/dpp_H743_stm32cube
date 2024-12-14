@@ -1,0 +1,5 @@
+C:/qp/qpc/include/qp.h:179:28:QEvt_getPoolNum_	16	static
+C:/qp/qpc/include/qp_pkg.h:86:20:QEvt_refCtr_dec_	24	static
+C:/qp/qpc/src/qf/qf_defer.c:58:6:QActive_defer	32	static
+C:/qp/qpc/src/qf/qf_defer.c:84:6:QActive_recall	24	static
+C:/qp/qpc/src/qf/qf_defer.c:145:15:QActive_flushDeferred	32	static

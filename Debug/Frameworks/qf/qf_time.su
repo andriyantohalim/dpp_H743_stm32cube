@@ -1,0 +1,11 @@
+C:/qp/qpc/include/qp.h:151:20:QEvt_ctor	16	static
+C:/qp/qpc/include/qp.h:171:20:QEvt_verify_	24	static
+C:/qp/qpc/src/qf/qf_time.c:65:6:QTimeEvt_ctorX	24	static
+C:/qp/qpc/src/qf/qf_time.c:93:6:QTimeEvt_armX	40	static
+C:/qp/qpc/src/qf/qf_time.c:181:6:QTimeEvt_disarm	32	static
+C:/qp/qpc/src/qf/qf_time.c:237:6:QTimeEvt_rearm	32	static
+C:/qp/qpc/src/qf/qf_time.c:332:6:QTimeEvt_wasDisarmed	24	static
+C:/qp/qpc/src/qf/qf_time.c:348:13:QTimeEvt_currCtr	24	static
+C:/qp/qpc/src/qf/qf_time.c:359:6:QTimeEvt_init	16	static
+C:/qp/qpc/src/qf/qf_time.c:375:6:QTimeEvt_tick_	40	static
+C:/qp/qpc/src/qf/qf_time.c:548:6:QTimeEvt_noActive	24	static

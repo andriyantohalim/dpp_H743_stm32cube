@@ -1,0 +1,7 @@
+C:/qp/qpc/include/qp.h:171:20:QEvt_verify_	24	static
+C:/qp/qpc/include/qp.h:179:28:QEvt_getPoolNum_	16	static
+C:/qp/qpc/include/qp_pkg.h:77:20:QEvt_refCtr_inc_	24	static
+C:/qp/qpc/src/qf/qf_qeq.c:60:6:QEQueue_init	24	static
+C:/qp/qpc/src/qf/qf_qeq.c:95:6:QEQueue_post	32	static
+C:/qp/qpc/src/qf/qf_qeq.c:210:6:QEQueue_postLIFO	32	static
+C:/qp/qpc/src/qf/qf_qeq.c:298:21:QEQueue_get	32	static

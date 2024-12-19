@@ -13,7 +13,7 @@ Core/Src/bsp.o: ../Core/Src/bsp.c C:/qp/qpc/include/qpc.h \
  C:/qp/qpc/3rd_party/FreeRTOS-Kernel/include/task.h \
  C:/qp/qpc/include/qequeue.h C:/qp/qpc/include/qmpool.h \
  C:/qp/qpc/include/qp.h C:/qp/qpc/include/qsafe.h \
- C:/qp/qpc/include/qs_dummy.h ../Core/Src/dpp.h ../Core/Inc/bsp.h \
+ C:/qp/qpc/include/qs_dummy.h ../Core/Inc/dpp.h ../Core/Inc/bsp.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../Core/Inc/stm32h7xx_hal_conf.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
@@ -67,7 +67,7 @@ C:/qp/qpc/include/qmpool.h:
 C:/qp/qpc/include/qp.h:
 C:/qp/qpc/include/qsafe.h:
 C:/qp/qpc/include/qs_dummy.h:
-../Core/Src/dpp.h:
+../Core/Inc/dpp.h:
 ../Core/Inc/bsp.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
 ../Core/Inc/stm32h7xx_hal_conf.h:

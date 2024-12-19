@@ -1,4 +1,4 @@
-../Core/Src/dpp.h:84:26:TableEvt_init	16	static
+../Core/Inc/dpp.h:84:26:TableEvt_init	16	static
 ../Core/Src/philo.c:70:27:think_time	8	static
 ../Core/Src/philo.c:77:27:eat_time	8	static
 ../Core/Src/philo.c:92:6:Philo_ctor	24	static

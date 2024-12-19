@@ -1,4 +1,4 @@
-../Core/Src/dpp.h:84:26:TableEvt_init	2
+../Core/Inc/dpp.h:84:26:TableEvt_init	2
 ../Core/Src/table.c:69:23:right	1
 ../Core/Src/table.c:74:23:left	1
 ../Core/Src/table.c:96:6:Table_ctor	2

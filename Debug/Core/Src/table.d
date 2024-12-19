@@ -13,7 +13,7 @@ Core/Src/table.o: ../Core/Src/table.c C:/qp/qpc/include/qpc.h \
  C:/qp/qpc/3rd_party/FreeRTOS-Kernel/include/task.h \
  C:/qp/qpc/include/qequeue.h C:/qp/qpc/include/qmpool.h \
  C:/qp/qpc/include/qp.h C:/qp/qpc/include/qsafe.h \
- C:/qp/qpc/include/qs_dummy.h ../Core/Src/dpp.h ../Core/Inc/bsp.h
+ C:/qp/qpc/include/qs_dummy.h ../Core/Inc/dpp.h ../Core/Inc/bsp.h
 C:/qp/qpc/include/qpc.h:
 C:/qp/qpc/ports/freertos/qp_port.h:
 ../Core/Inc/qp_config.h:
@@ -33,5 +33,5 @@ C:/qp/qpc/include/qmpool.h:
 C:/qp/qpc/include/qp.h:
 C:/qp/qpc/include/qsafe.h:
 C:/qp/qpc/include/qs_dummy.h:
-../Core/Src/dpp.h:
+../Core/Inc/dpp.h:
 ../Core/Inc/bsp.h:
